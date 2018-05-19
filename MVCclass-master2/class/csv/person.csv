@@ -1,0 +1,937 @@
+,bio_guide_id,first_name,full_name,gpo_id,honorific,middle_name,person_id,person_id,surname
+0,,hon.,hon. lamar s. smith,1075,,lamar s.,1,,smith
+1,,hon.,hon. lamar s. smith,1075,,lamar s.,1,,smith
+2,,hon.,hon. lamar s. smith,1075,,lamar s.,1,,smith
+3,,hon.,hon. lamar s. smith,1075,,lamar s.,1,,smith
+4,,hon.,hon. lamar s. smith,1075,,lamar s.,1,,smith
+5,,hon.,hon. lamar s. smith,1075,,lamar s.,1,,smith
+6,,hon.,hon. lamar s. smith,1075,,lamar s.,1,,smith
+7,,hon.,hon. lamar s. smith,1075,,lamar s.,1,,smith
+8,,lamar,lamar s. smith,,,s.,2,,smith
+9,,randy,randy neugebauer,,,,3,,neugebauer
+10,,daniel,daniel lipinski,,,,4,,lipinski
+11,,michael,michael t. mccaul,,,t.,5,,mccaul
+12,,ed,ed perlmutter,,,,6,,perlmutter
+13,,bill,bill foster,,,,7,,foster
+14,,donna,donna f. edwards,,,f.,8,,edwards
+15,,alan,alan grayson,,,,9,,grayson
+16,,bill,bill posey,,,,10,,posey
+17,,paul,paul tonko,1942,,,11,,tonko
+18,,mo,mo brooks,,,,12,,brooks
+19,,randy,randy hultgren,,,,13,,hultgren
+20,,bill,bill johnson,2046,,,14,,johnson
+21,,suzanne,suzanne bonamici,2092,,,15,,bonamici
+22,,thomas,thomas massie,,,,16,,massie
+23,,ami,ami bera,,,,17,,bera
+24,,eric,eric swalwell,,,,18,,swalwell
+25,,mark,mark takano,,,,19,,takano
+26,,elizabeth,elizabeth h. esty,,,h.,20,,esty
+27,,jim,jim bridenstine,,,,21,,bridenstine
+28,,randy,randy k. weber,2161,,k.,22,,weber
+29,,marc,marc a. veasey,2166,,a.,23,,veasey
+30,,katherine,katherine m. clark,,,m.,24,,clark
+31,,gary,gary palmer,,,,25,,palmer
+32,,bruce,bruce westerman,,,,26,,westerman
+33,,steve,steve knight,,,,27,,knight
+34,,barry,barry loudermilk,,,,28,,loudermilk
+35,,ralph,ralph lee abraham,,,lee,29,,abraham
+36,,john,john r. moolenaar,2248,,r.,30,,moolenaar
+37,,brian,brian babin,,,,31,,babin
+38,,hon.,hon. barbara comstock,2273,,barbara,32,,comstock
+39,,barbara,barbara comstock,,,,33,,comstock
+40,,dan,dan newhouse,,,,34,,newhouse
+41,,darin,darin lahood,,,,35,,lahood
+42,,eddie,eddie bernice johnson,,,bernice,36,,johnson
+43,,zoe,zoe lofgren,,,,37,,lofgren
+44,,frank,frank d. lucas,,,d.,38,,lucas
+45,,dana,dana rohrabacher,979,,,39,,rohrabacher
+46,,co-founder,co-founder zach serber,,dr.,professor and director,,40,zach serber
+47,,hon.,hon. lamar s. smith,1075,,lamar s.,40,,smith
+48,,randy,randy neugebauer,,,,41,,neugebauer
+49,,daniel,daniel lipinski,,,,42,,lipinski
+50,,michael,michael t. mccaul,,,t.,43,,mccaul
+51,,ed,ed perlmutter,,,,44,,perlmutter
+52,,bill,bill foster,,,,45,,foster
+53,,donna,donna f. edwards,,,f.,46,,edwards
+54,,alan,alan grayson,,,,47,,grayson
+55,,bill,bill posey,,,,48,,posey
+56,,paul,paul tonko,1942,,,49,,tonko
+57,,mo,mo brooks,,,,50,,brooks
+58,,randy,randy hultgren,,,,51,,hultgren
+59,,bill,bill johnson,2046,,,52,,johnson
+60,,suzanne,suzanne bonamici,2092,,,53,,bonamici
+61,,thomas,thomas massie,,,,54,,massie
+62,,ami,ami bera,,,,55,,bera
+63,,eric,eric swalwell,,,,56,,swalwell
+64,,mark,mark takano,,,,57,,takano
+65,,elizabeth,elizabeth h. esty,,,h.,58,,esty
+66,,jim,jim bridenstine,,,,59,,bridenstine
+67,,randy,randy k. weber,2161,,k.,60,,weber
+68,,marc,marc a. veasey,2166,,a.,61,,veasey
+69,,katherine,katherine m. clark,,,m.,62,,clark
+70,,gary,gary palmer,,,,63,,palmer
+71,,bruce,bruce westerman,,,,64,,westerman
+72,,stephen,stephen knight,2228,,,65,,knight
+73,,barry,barry loudermilk,,,,66,,loudermilk
+74,,ralph,ralph lee abraham,,,lee,67,,abraham
+75,,john,john r. moolenaar,2248,,r.,68,,moolenaar
+76,,brian,brian babin,,,,69,,babin
+77,,barbara,barbara comstock,,,,70,,comstock
+78,,drain,drain lahood,2295,,,71,,lahood
+79,,eddie,eddie bernice johnson,,,bernice,72,,johnson
+80,,zoe,zoe lofgren,,,,73,,lofgren
+81,,frank,frank d. lucas,,,d.,74,,lucas
+82,,dana,dana rohrabacher,979,,,75,,rohrabacher
+83,,the,the bernard and barbara lomas senior research fellow steven groves,,dr.,bernard and barbara lomas senior research fellow,,76,steven groves
+84,,hon.,hon. lamar s. smith,1075,,lamar s.,76,,smith
+85,,lamar,lamar s. smith,,,s.,77,,smith
+86,,randy,randy neugebauer,,,,78,,neugebauer
+87,,daniel,daniel lipinski,,,,79,,lipinski
+88,,michael,michael t. mccaul,,,t.,80,,mccaul
+89,,ed,ed perlmutter,,,,81,,perlmutter
+90,,bill,bill foster,,,,82,,foster
+91,,donna,donna f. edwards,,,f.,83,,edwards
+92,,alan,alan grayson,,,,84,,grayson
+93,,bill,bill posey,,,,85,,posey
+94,,paul,paul tonko,1942,,,86,,tonko
+95,,mo,mo brooks,,,,87,,brooks
+96,,randy,randy hultgren,,,,88,,hultgren
+97,,steven,steven m. palazzo,,,m.,89,,palazzo
+98,,bill,bill johnson,2046,,,90,,johnson
+99,,suzanne,suzanne bonamici,2092,,,91,,bonamici
+100,,thomas,thomas massie,,,,92,,massie
+101,,ami,ami bera,,,,93,,bera
+102,,eric,eric swalwell,,,,94,,swalwell
+103,,mark,mark takano,,,,95,,takano
+104,,elizabeth,elizabeth esty,2114,,,96,,esty
+105,,elizabeth,elizabeth h. esty,,,h.,97,,esty
+106,,jim,jim bridenstine,,,,98,,bridenstine
+107,,randy,randy k. weber,2161,,k.,99,,weber
+108,,katherine,katherine clark,2196,,,100,,clark
+109,,katherine,katherine m. clark,,,m.,101,,clark
+110,,gary,gary palmer,,,,102,,palmer
+111,,bruce,bruce westerman,,,,103,,westerman
+112,,steve,steve knight,,,,104,,knight
+113,,hon.,hon. barry loudermilk,2238,,barry,105,,loudermilk
+114,,barry,barry loudermilk,,,,106,,loudermilk
+115,,john,john moolenaar,,,,107,,moolenaar
+116,,john,john r. moolenaar,2248,,r.,108,,moolenaar
+117,,brian,brian babin,,,,109,,babin
+118,,don,don beyer,2272,Jr.,,110,,beyer
+119,,hon.,hon. barbara comstock,2273,,barbara,111,,comstock
+120,,barbara,barbara comstock,,,,112,,comstock
+121,,dan,dan newhouse,,,,113,,newhouse
+122,,eddie,eddie bernice johnson,,,bernice,114,,johnson
+123,,zoe,zoe lofgren,,,,115,,lofgren
+124,,frank,frank d. lucas,,,d.,116,,lucas
+125,,frank,frank lucas,711,,,117,,lucas
+126,,dana,dana rohrabacher,979,,,118,,rohrabacher
+127,,hon.,hon. lamar s. smith,1075,,lamar s.,1,,smith
+128,,lamar,lamar s. smith,,,s.,2,,smith
+129,,randy,randy neugebauer,,,,3,,neugebauer
+130,,daniel,daniel lipinski,,,,4,,lipinski
+131,,michael,michael t. mccaul,,,t.,5,,mccaul
+132,,ed,ed perlmutter,,,,6,,perlmutter
+133,,bill,bill foster,,,,7,,foster
+134,,donna,donna f. edwards,,,f.,8,,edwards
+135,,alan,alan grayson,,,,9,,grayson
+136,,bill,bill posey,,,,10,,posey
+137,,paul,paul tonko,1942,,,11,,tonko
+138,,mo,mo brooks,,,,12,,brooks
+139,,randy,randy hultgren,,,,13,,hultgren
+140,,bill,bill johnson,2046,,,14,,johnson
+141,,suzanne,suzanne bonamici,2092,,,15,,bonamici
+142,,thomas,thomas massie,,,,16,,massie
+143,,ami,ami bera,,,,17,,bera
+144,,eric,eric swalwell,,,,18,,swalwell
+145,,mark,mark takano,,,,19,,takano
+146,,elizabeth,elizabeth h. esty,,,h.,20,,esty
+147,,jim,jim bridenstine,,,,21,,bridenstine
+148,,randy,randy k. weber,2161,,k.,22,,weber
+149,,marc,marc a. veasey,2166,,a.,23,,veasey
+150,,katherine,katherine m. clark,,,m.,24,,clark
+151,,gary,gary palmer,,,,25,,palmer
+152,,bruce,bruce westerman,,,,26,,westerman
+153,,steve,steve knight,,,,27,,knight
+154,,barry,barry loudermilk,,,,28,,loudermilk
+155,,ralph,ralph lee abraham,,,lee,29,,abraham
+156,,john,john r. moolenaar,2248,,r.,30,,moolenaar
+157,,brian,brian babin,,,,31,,babin
+158,,hon.,hon. barbara comstock,2273,,barbara,32,,comstock
+159,,barbara,barbara comstock,,,,33,,comstock
+160,,dan,dan newhouse,,,,34,,newhouse
+161,,darin,darin lahood,,,,35,,lahood
+162,,eddie,eddie bernice johnson,,,bernice,36,,johnson
+163,,zoe,zoe lofgren,,,,37,,lofgren
+164,,frank,frank d. lucas,,,d.,38,,lucas
+165,,dana,dana rohrabacher,979,,,39,,rohrabacher
+166,,hon.,hon. lamar s. smith,1075,,lamar s.,1,,smith
+167,,lamar,lamar s. smith,,,s.,2,,smith
+168,,randy,randy neugebauer,,,,3,,neugebauer
+169,,daniel,daniel lipinski,,,,4,,lipinski
+170,,michael,michael t. mccaul,,,t.,5,,mccaul
+171,,ed,ed perlmutter,,,,6,,perlmutter
+172,,bill,bill foster,,,,7,,foster
+173,,donna,donna f. edwards,,,f.,8,,edwards
+174,,alan,alan grayson,,,,9,,grayson
+175,,bill,bill posey,,,,10,,posey
+176,,paul,paul tonko,1942,,,11,,tonko
+177,,mo,mo brooks,,,,12,,brooks
+178,,randy,randy hultgren,,,,13,,hultgren
+179,,bill,bill johnson,2046,,,14,,johnson
+180,,suzanne,suzanne bonamici,2092,,,15,,bonamici
+181,,thomas,thomas massie,,,,16,,massie
+182,,ami,ami bera,,,,17,,bera
+183,,eric,eric swalwell,,,,18,,swalwell
+184,,mark,mark takano,,,,19,,takano
+185,,elizabeth,elizabeth h. esty,,,h.,20,,esty
+186,,jim,jim bridenstine,,,,21,,bridenstine
+187,,randy,randy k. weber,2161,,k.,22,,weber
+188,,marc,marc a. veasey,2166,,a.,23,,veasey
+189,,katherine,katherine m. clark,,,m.,24,,clark
+190,,gary,gary palmer,,,,25,,palmer
+191,,bruce,bruce westerman,,,,26,,westerman
+192,,steve,steve knight,,,,27,,knight
+193,,barry,barry loudermilk,,,,28,,loudermilk
+194,,ralph,ralph lee abraham,,,lee,29,,abraham
+195,,john,john r. moolenaar,2248,,r.,30,,moolenaar
+196,,brian,brian babin,,,,31,,babin
+197,,hon.,hon. barbara comstock,2273,,barbara,32,,comstock
+198,,barbara,barbara comstock,,,,33,,comstock
+199,,dan,dan newhouse,,,,34,,newhouse
+200,,darin,darin lahood,,,,35,,lahood
+201,,eddie,eddie bernice johnson,,,bernice,36,,johnson
+202,,zoe,zoe lofgren,,,,37,,lofgren
+203,,frank,frank d. lucas,,,d.,38,,lucas
+204,,dana,dana rohrabacher,979,,,39,,rohrabacher
+205,,hon.,hon. lamar s. smith,1075,,lamar s.,1,,smith
+206,,lamar,lamar s. smith,,,s.,2,,smith
+207,,randy,randy neugebauer,,,,3,,neugebauer
+208,,daniel,daniel lipinski,,,,4,,lipinski
+209,,michael,michael t. mccaul,,,t.,5,,mccaul
+210,,ed,ed perlmutter,,,,6,,perlmutter
+211,,bill,bill foster,,,,7,,foster
+212,,donna,donna f. edwards,,,f.,8,,edwards
+213,,alan,alan grayson,,,,9,,grayson
+214,,bill,bill posey,,,,10,,posey
+215,,paul,paul tonko,1942,,,11,,tonko
+216,,mo,mo brooks,,,,12,,brooks
+217,,randy,randy hultgren,,,,13,,hultgren
+218,,bill,bill johnson,2046,,,14,,johnson
+219,,suzanne,suzanne bonamici,2092,,,15,,bonamici
+220,,thomas,thomas massie,,,,16,,massie
+221,,ami,ami bera,,,,17,,bera
+222,,eric,eric swalwell,,,,18,,swalwell
+223,,mark,mark takano,,,,19,,takano
+224,,elizabeth,elizabeth h. esty,,,h.,20,,esty
+225,,jim,jim bridenstine,,,,21,,bridenstine
+226,,randy,randy k. weber,2161,,k.,22,,weber
+227,,marc,marc a. veasey,2166,,a.,23,,veasey
+228,,katherine,katherine m. clark,,,m.,24,,clark
+229,,gary,gary palmer,,,,25,,palmer
+230,,bruce,bruce westerman,,,,26,,westerman
+231,,steve,steve knight,,,,27,,knight
+232,,barry,barry loudermilk,,,,28,,loudermilk
+233,,ralph,ralph lee abraham,,,lee,29,,abraham
+234,,john,john r. moolenaar,2248,,r.,30,,moolenaar
+235,,brian,brian babin,,,,31,,babin
+236,,hon.,hon. barbara comstock,2273,,barbara,32,,comstock
+237,,barbara,barbara comstock,,,,33,,comstock
+238,,dan,dan newhouse,,,,34,,newhouse
+239,,darin,darin lahood,,,,35,,lahood
+240,,eddie,eddie bernice johnson,,,bernice,36,,johnson
+241,,zoe,zoe lofgren,,,,37,,lofgren
+242,,frank,frank d. lucas,,,d.,38,,lucas
+243,,dana,dana rohrabacher,979,,,39,,rohrabacher
+244,,hon.,hon. lamar s. smith,1075,,lamar s.,1,,smith
+245,,lamar,lamar s. smith,,,s.,2,,smith
+246,,randy,randy neugebauer,,,,3,,neugebauer
+247,,daniel,daniel lipinski,,,,4,,lipinski
+248,,michael,michael t. mccaul,,,t.,5,,mccaul
+249,,ed,ed perlmutter,,,,6,,perlmutter
+250,,bill,bill foster,,,,7,,foster
+251,,donna,donna f. edwards,,,f.,8,,edwards
+252,,alan,alan grayson,,,,9,,grayson
+253,,bill,bill posey,,,,10,,posey
+254,,paul,paul tonko,1942,,,11,,tonko
+255,,mo,mo brooks,,,,12,,brooks
+256,,randy,randy hultgren,,,,13,,hultgren
+257,,bill,bill johnson,2046,,,14,,johnson
+258,,suzanne,suzanne bonamici,2092,,,15,,bonamici
+259,,thomas,thomas massie,,,,16,,massie
+260,,ami,ami bera,,,,17,,bera
+261,,eric,eric swalwell,,,,18,,swalwell
+262,,mark,mark takano,,,,19,,takano
+263,,elizabeth,elizabeth h. esty,,,h.,20,,esty
+264,,jim,jim bridenstine,,,,21,,bridenstine
+265,,randy,randy k. weber,2161,,k.,22,,weber
+266,,marc,marc a. veasey,2166,,a.,23,,veasey
+267,,katherine,katherine m. clark,,,m.,24,,clark
+268,,gary,gary palmer,,,,25,,palmer
+269,,bruce,bruce westerman,,,,26,,westerman
+270,,steve,steve knight,,,,27,,knight
+271,,barry,barry loudermilk,,,,28,,loudermilk
+272,,ralph,ralph lee abraham,,,lee,29,,abraham
+273,,john,john r. moolenaar,2248,,r.,30,,moolenaar
+274,,brian,brian babin,,,,31,,babin
+275,,hon.,hon. barbara comstock,2273,,barbara,32,,comstock
+276,,barbara,barbara comstock,,,,33,,comstock
+277,,dan,dan newhouse,,,,34,,newhouse
+278,,darin,darin lahood,,,,35,,lahood
+279,,eddie,eddie bernice johnson,,,bernice,36,,johnson
+280,,zoe,zoe lofgren,,,,37,,lofgren
+281,,frank,frank d. lucas,,,d.,38,,lucas
+282,,dana,dana rohrabacher,979,,,39,,rohrabacher
+283,,hon.,hon. lamar s. smith,1075,,lamar s.,1,,smith
+284,,lamar,lamar s. smith,,,s.,2,,smith
+285,,randy,randy neugebauer,,,,3,,neugebauer
+286,,daniel,daniel lipinski,,,,4,,lipinski
+287,,michael,michael t. mccaul,,,t.,5,,mccaul
+288,,ed,ed perlmutter,,,,6,,perlmutter
+289,,bill,bill foster,,,,7,,foster
+290,,donna,donna f. edwards,,,f.,8,,edwards
+291,,alan,alan grayson,,,,9,,grayson
+292,,bill,bill posey,,,,10,,posey
+293,,paul,paul tonko,1942,,,11,,tonko
+294,,mo,mo brooks,,,,12,,brooks
+295,,randy,randy hultgren,,,,13,,hultgren
+296,,bill,bill johnson,2046,,,14,,johnson
+297,,suzanne,suzanne bonamici,2092,,,15,,bonamici
+298,,thomas,thomas massie,,,,16,,massie
+299,,ami,ami bera,,,,17,,bera
+300,,eric,eric swalwell,,,,18,,swalwell
+301,,mark,mark takano,,,,19,,takano
+302,,elizabeth,elizabeth h. esty,,,h.,20,,esty
+303,,jim,jim bridenstine,,,,21,,bridenstine
+304,,randy,randy k. weber,2161,,k.,22,,weber
+305,,marc,marc a. veasey,2166,,a.,23,,veasey
+306,,katherine,katherine m. clark,,,m.,24,,clark
+307,,gary,gary palmer,,,,25,,palmer
+308,,bruce,bruce westerman,,,,26,,westerman
+309,,steve,steve knight,,,,27,,knight
+310,,barry,barry loudermilk,,,,28,,loudermilk
+311,,ralph,ralph lee abraham,,,lee,29,,abraham
+312,,john,john r. moolenaar,2248,,r.,30,,moolenaar
+313,,brian,brian babin,,,,31,,babin
+314,,hon.,hon. barbara comstock,2273,,barbara,32,,comstock
+315,,barbara,barbara comstock,,,,33,,comstock
+316,,dan,dan newhouse,,,,34,,newhouse
+317,,darin,darin lahood,,,,35,,lahood
+318,,eddie,eddie bernice johnson,,,bernice,36,,johnson
+319,,zoe,zoe lofgren,,,,37,,lofgren
+320,,frank,frank d. lucas,,,d.,38,,lucas
+321,,dana,dana rohrabacher,979,,,39,,rohrabacher
+322,,hon.,hon. lamar s. smith,1075,,lamar s.,1,,smith
+323,,lamar,lamar s. smith,,,s.,2,,smith
+324,,randy,randy neugebauer,,,,3,,neugebauer
+325,,daniel,daniel lipinski,,,,4,,lipinski
+326,,michael,michael t. mccaul,,,t.,5,,mccaul
+327,,ed,ed perlmutter,,,,6,,perlmutter
+328,,bill,bill foster,,,,7,,foster
+329,,donna,donna f. edwards,,,f.,8,,edwards
+330,,alan,alan grayson,,,,9,,grayson
+331,,bill,bill posey,,,,10,,posey
+332,,paul,paul tonko,1942,,,11,,tonko
+333,,mo,mo brooks,,,,12,,brooks
+334,,randy,randy hultgren,,,,13,,hultgren
+335,,bill,bill johnson,2046,,,14,,johnson
+336,,suzanne,suzanne bonamici,2092,,,15,,bonamici
+337,,thomas,thomas massie,,,,16,,massie
+338,,ami,ami bera,,,,17,,bera
+339,,eric,eric swalwell,,,,18,,swalwell
+340,,mark,mark takano,,,,19,,takano
+341,,elizabeth,elizabeth h. esty,,,h.,20,,esty
+342,,jim,jim bridenstine,,,,21,,bridenstine
+343,,randy,randy k. weber,2161,,k.,22,,weber
+344,,marc,marc a. veasey,2166,,a.,23,,veasey
+345,,katherine,katherine m. clark,,,m.,24,,clark
+346,,gary,gary palmer,,,,25,,palmer
+347,,bruce,bruce westerman,,,,26,,westerman
+348,,steve,steve knight,,,,27,,knight
+349,,barry,barry loudermilk,,,,28,,loudermilk
+350,,ralph,ralph lee abraham,,,lee,29,,abraham
+351,,john,john r. moolenaar,2248,,r.,30,,moolenaar
+352,,brian,brian babin,,,,31,,babin
+353,,hon.,hon. barbara comstock,2273,,barbara,32,,comstock
+354,,barbara,barbara comstock,,,,33,,comstock
+355,,dan,dan newhouse,,,,34,,newhouse
+356,,darin,darin lahood,,,,35,,lahood
+357,,eddie,eddie bernice johnson,,,bernice,36,,johnson
+358,,zoe,zoe lofgren,,,,37,,lofgren
+359,,frank,frank d. lucas,,,d.,38,,lucas
+360,,dana,dana rohrabacher,979,,,39,,rohrabacher
+361,,hon.,hon. lamar s. smith,1075,,lamar s.,40,,smith
+362,,randy,randy neugebauer,,,,41,,neugebauer
+363,,daniel,daniel lipinski,,,,42,,lipinski
+364,,michael,michael t. mccaul,,,t.,43,,mccaul
+365,,ed,ed perlmutter,,,,44,,perlmutter
+366,,bill,bill foster,,,,45,,foster
+367,,donna,donna f. edwards,,,f.,46,,edwards
+368,,alan,alan grayson,,,,47,,grayson
+369,,bill,bill posey,,,,48,,posey
+370,,paul,paul tonko,1942,,,49,,tonko
+371,,mo,mo brooks,,,,50,,brooks
+372,,randy,randy hultgren,,,,51,,hultgren
+373,,bill,bill johnson,2046,,,52,,johnson
+374,,suzanne,suzanne bonamici,2092,,,53,,bonamici
+375,,thomas,thomas massie,,,,54,,massie
+376,,ami,ami bera,,,,55,,bera
+377,,eric,eric swalwell,,,,56,,swalwell
+378,,mark,mark takano,,,,57,,takano
+379,,elizabeth,elizabeth h. esty,,,h.,58,,esty
+380,,jim,jim bridenstine,,,,59,,bridenstine
+381,,randy,randy k. weber,2161,,k.,60,,weber
+382,,marc,marc a. veasey,2166,,a.,61,,veasey
+383,,katherine,katherine m. clark,,,m.,62,,clark
+384,,gary,gary palmer,,,,63,,palmer
+385,,bruce,bruce westerman,,,,64,,westerman
+386,,stephen,stephen knight,2228,,,65,,knight
+387,,barry,barry loudermilk,,,,66,,loudermilk
+388,,ralph,ralph lee abraham,,,lee,67,,abraham
+389,,john,john r. moolenaar,2248,,r.,68,,moolenaar
+390,,brian,brian babin,,,,69,,babin
+391,,barbara,barbara comstock,,,,70,,comstock
+392,,drain,drain lahood,2295,,,71,,lahood
+393,,eddie,eddie bernice johnson,,,bernice,72,,johnson
+394,,zoe,zoe lofgren,,,,73,,lofgren
+395,,frank,frank d. lucas,,,d.,74,,lucas
+396,,dana,dana rohrabacher,979,,,75,,rohrabacher
+397,,hon.,hon. lamar s. smith,1075,,lamar s.,76,,smith
+398,,lamar,lamar s. smith,,,s.,77,,smith
+399,,randy,randy neugebauer,,,,78,,neugebauer
+400,,daniel,daniel lipinski,,,,79,,lipinski
+401,,michael,michael t. mccaul,,,t.,80,,mccaul
+402,,ed,ed perlmutter,,,,81,,perlmutter
+403,,bill,bill foster,,,,82,,foster
+404,,donna,donna f. edwards,,,f.,83,,edwards
+405,,alan,alan grayson,,,,84,,grayson
+406,,bill,bill posey,,,,85,,posey
+407,,paul,paul tonko,1942,,,86,,tonko
+408,,mo,mo brooks,,,,87,,brooks
+409,,randy,randy hultgren,,,,88,,hultgren
+410,,steven,steven m. palazzo,,,m.,89,,palazzo
+411,,bill,bill johnson,2046,,,90,,johnson
+412,,suzanne,suzanne bonamici,2092,,,91,,bonamici
+413,,thomas,thomas massie,,,,92,,massie
+414,,ami,ami bera,,,,93,,bera
+415,,eric,eric swalwell,,,,94,,swalwell
+416,,mark,mark takano,,,,95,,takano
+417,,elizabeth,elizabeth esty,2114,,,96,,esty
+418,,elizabeth,elizabeth h. esty,,,h.,97,,esty
+419,,jim,jim bridenstine,,,,98,,bridenstine
+420,,randy,randy k. weber,2161,,k.,99,,weber
+421,,katherine,katherine clark,2196,,,100,,clark
+422,,katherine,katherine m. clark,,,m.,101,,clark
+423,,gary,gary palmer,,,,102,,palmer
+424,,bruce,bruce westerman,,,,103,,westerman
+425,,steve,steve knight,,,,104,,knight
+426,,hon.,hon. barry loudermilk,2238,,barry,105,,loudermilk
+427,,barry,barry loudermilk,,,,106,,loudermilk
+428,,john,john moolenaar,,,,107,,moolenaar
+429,,john,john r. moolenaar,2248,,r.,108,,moolenaar
+430,,brian,brian babin,,,,109,,babin
+431,,don,don beyer,2272,Jr.,,110,,beyer
+432,,hon.,hon. barbara comstock,2273,,barbara,111,,comstock
+433,,barbara,barbara comstock,,,,112,,comstock
+434,,dan,dan newhouse,,,,113,,newhouse
+435,,eddie,eddie bernice johnson,,,bernice,114,,johnson
+436,,zoe,zoe lofgren,,,,115,,lofgren
+437,,frank,frank d. lucas,,,d.,116,,lucas
+438,,frank,frank lucas,711,,,117,,lucas
+439,,dana,dana rohrabacher,979,,,118,,rohrabacher
+440,,hon.,hon. lamar s. smith,1075,,lamar s.,1,,smith
+441,,lamar,lamar s. smith,,,s.,2,,smith
+442,,randy,randy neugebauer,,,,3,,neugebauer
+443,,daniel,daniel lipinski,,,,4,,lipinski
+444,,michael,michael t. mccaul,,,t.,5,,mccaul
+445,,ed,ed perlmutter,,,,6,,perlmutter
+446,,bill,bill foster,,,,7,,foster
+447,,donna,donna f. edwards,,,f.,8,,edwards
+448,,alan,alan grayson,,,,9,,grayson
+449,,bill,bill posey,,,,10,,posey
+450,,paul,paul tonko,1942,,,11,,tonko
+451,,mo,mo brooks,,,,12,,brooks
+452,,randy,randy hultgren,,,,13,,hultgren
+453,,bill,bill johnson,2046,,,14,,johnson
+454,,suzanne,suzanne bonamici,2092,,,15,,bonamici
+455,,thomas,thomas massie,,,,16,,massie
+456,,ami,ami bera,,,,17,,bera
+457,,eric,eric swalwell,,,,18,,swalwell
+458,,mark,mark takano,,,,19,,takano
+459,,elizabeth,elizabeth h. esty,,,h.,20,,esty
+460,,jim,jim bridenstine,,,,21,,bridenstine
+461,,randy,randy k. weber,2161,,k.,22,,weber
+462,,marc,marc a. veasey,2166,,a.,23,,veasey
+463,,katherine,katherine m. clark,,,m.,24,,clark
+464,,gary,gary palmer,,,,25,,palmer
+465,,bruce,bruce westerman,,,,26,,westerman
+466,,steve,steve knight,,,,27,,knight
+467,,barry,barry loudermilk,,,,28,,loudermilk
+468,,ralph,ralph lee abraham,,,lee,29,,abraham
+469,,john,john r. moolenaar,2248,,r.,30,,moolenaar
+470,,brian,brian babin,,,,31,,babin
+471,,hon.,hon. barbara comstock,2273,,barbara,32,,comstock
+472,,barbara,barbara comstock,,,,33,,comstock
+473,,dan,dan newhouse,,,,34,,newhouse
+474,,darin,darin lahood,,,,35,,lahood
+475,,eddie,eddie bernice johnson,,,bernice,36,,johnson
+476,,zoe,zoe lofgren,,,,37,,lofgren
+477,,frank,frank d. lucas,,,d.,38,,lucas
+478,,dana,dana rohrabacher,979,,,39,,rohrabacher
+479,,hon.,hon. lamar s. smith,1075,,lamar s.,40,,smith
+480,,randy,randy neugebauer,,,,41,,neugebauer
+481,,daniel,daniel lipinski,,,,42,,lipinski
+482,,michael,michael t. mccaul,,,t.,43,,mccaul
+483,,ed,ed perlmutter,,,,44,,perlmutter
+484,,bill,bill foster,,,,45,,foster
+485,,donna,donna f. edwards,,,f.,46,,edwards
+486,,alan,alan grayson,,,,47,,grayson
+487,,bill,bill posey,,,,48,,posey
+488,,paul,paul tonko,1942,,,49,,tonko
+489,,mo,mo brooks,,,,50,,brooks
+490,,randy,randy hultgren,,,,51,,hultgren
+491,,bill,bill johnson,2046,,,52,,johnson
+492,,suzanne,suzanne bonamici,2092,,,53,,bonamici
+493,,thomas,thomas massie,,,,54,,massie
+494,,ami,ami bera,,,,55,,bera
+495,,eric,eric swalwell,,,,56,,swalwell
+496,,mark,mark takano,,,,57,,takano
+497,,elizabeth,elizabeth h. esty,,,h.,58,,esty
+498,,jim,jim bridenstine,,,,59,,bridenstine
+499,,randy,randy k. weber,2161,,k.,60,,weber
+500,,marc,marc a. veasey,2166,,a.,61,,veasey
+501,,katherine,katherine m. clark,,,m.,62,,clark
+502,,gary,gary palmer,,,,63,,palmer
+503,,bruce,bruce westerman,,,,64,,westerman
+504,,stephen,stephen knight,2228,,,65,,knight
+505,,barry,barry loudermilk,,,,66,,loudermilk
+506,,ralph,ralph lee abraham,,,lee,67,,abraham
+507,,john,john r. moolenaar,2248,,r.,68,,moolenaar
+508,,brian,brian babin,,,,69,,babin
+509,,barbara,barbara comstock,,,,70,,comstock
+510,,drain,drain lahood,2295,,,71,,lahood
+511,,eddie,eddie bernice johnson,,,bernice,72,,johnson
+512,,zoe,zoe lofgren,,,,73,,lofgren
+513,,frank,frank d. lucas,,,d.,74,,lucas
+514,,dana,dana rohrabacher,979,,,75,,rohrabacher
+515,,hon.,hon. lamar s. smith,1075,,lamar s.,76,,smith
+516,,lamar,lamar s. smith,,,s.,77,,smith
+517,,randy,randy neugebauer,,,,78,,neugebauer
+518,,daniel,daniel lipinski,,,,79,,lipinski
+519,,michael,michael t. mccaul,,,t.,80,,mccaul
+520,,ed,ed perlmutter,,,,81,,perlmutter
+521,,bill,bill foster,,,,82,,foster
+522,,donna,donna f. edwards,,,f.,83,,edwards
+523,,alan,alan grayson,,,,84,,grayson
+524,,bill,bill posey,,,,85,,posey
+525,,paul,paul tonko,1942,,,86,,tonko
+526,,mo,mo brooks,,,,87,,brooks
+527,,randy,randy hultgren,,,,88,,hultgren
+528,,steven,steven m. palazzo,,,m.,89,,palazzo
+529,,bill,bill johnson,2046,,,90,,johnson
+530,,suzanne,suzanne bonamici,2092,,,91,,bonamici
+531,,thomas,thomas massie,,,,92,,massie
+532,,ami,ami bera,,,,93,,bera
+533,,eric,eric swalwell,,,,94,,swalwell
+534,,mark,mark takano,,,,95,,takano
+535,,elizabeth,elizabeth esty,2114,,,96,,esty
+536,,elizabeth,elizabeth h. esty,,,h.,97,,esty
+537,,jim,jim bridenstine,,,,98,,bridenstine
+538,,randy,randy k. weber,2161,,k.,99,,weber
+539,,katherine,katherine clark,2196,,,100,,clark
+540,,katherine,katherine m. clark,,,m.,101,,clark
+541,,gary,gary palmer,,,,102,,palmer
+542,,bruce,bruce westerman,,,,103,,westerman
+543,,steve,steve knight,,,,104,,knight
+544,,hon.,hon. barry loudermilk,2238,,barry,105,,loudermilk
+545,,barry,barry loudermilk,,,,106,,loudermilk
+546,,john,john moolenaar,,,,107,,moolenaar
+547,,john,john r. moolenaar,2248,,r.,108,,moolenaar
+548,,brian,brian babin,,,,109,,babin
+549,,don,don beyer,2272,Jr.,,110,,beyer
+550,,hon.,hon. barbara comstock,2273,,barbara,111,,comstock
+551,,barbara,barbara comstock,,,,112,,comstock
+552,,dan,dan newhouse,,,,113,,newhouse
+553,,eddie,eddie bernice johnson,,,bernice,114,,johnson
+554,,zoe,zoe lofgren,,,,115,,lofgren
+555,,frank,frank d. lucas,,,d.,116,,lucas
+556,,frank,frank lucas,711,,,117,,lucas
+557,,dana,dana rohrabacher,979,,,118,,rohrabacher
+558,,legislative,legislative attorney kate manuel,,dr.,attorney,,119,kate manuel
+559,,hon.,hon. lamar s. smith,1075,,lamar s.,119,,smith
+560,,lamar,lamar s. smith,,,s.,120,,smith
+561,,randy,randy neugebauer,,,,121,,neugebauer
+562,,daniel,daniel lipinski,,,,122,,lipinski
+563,,michael,michael t. mccaul,,,t.,123,,mccaul
+564,,ed,ed perlmutter,,,,124,,perlmutter
+565,,bill,bill foster,,,,125,,foster
+566,,donna,donna f. edwards,,,f.,126,,edwards
+567,,alan,alan grayson,,,,127,,grayson
+568,,bill,bill posey,,,,128,,posey
+569,,paul,paul tonko,1942,,,129,,tonko
+570,,mo,mo brooks,,,,130,,brooks
+571,,frederica,frederica s. wilson,,,s.,131,,wilson
+572,,randy,randy hultgren,,,,132,,hultgren
+573,,steven,steven m. palazzo,,,m.,133,,palazzo
+574,,bill,bill johnson,2046,,,134,,johnson
+575,,suzanne,suzanne bonamici,2092,,,135,,bonamici
+576,,thomas,thomas massie,,,,136,,massie
+577,,ami,ami bera,,,,137,,bera
+578,,eric,eric swalwell,,,,138,,swalwell
+579,,mark,mark takano,,,,139,,takano
+580,,elizabeth,elizabeth h. esty,,,h.,140,,esty
+581,,jim,jim bridenstine,,,,141,,bridenstine
+582,,randy,randy k. weber,2161,,k.,142,,weber
+583,,katherine,katherine m. clark,,,m.,143,,clark
+584,,gary,gary palmer,,,,144,,palmer
+585,,bruce,bruce westerman,,,,145,,westerman
+586,,steve,steve knight,,,,146,,knight
+587,,barry,barry loudermilk,,,,147,,loudermilk
+588,,john,john r. moolenaar,2248,,r.,148,,moolenaar
+589,,brian,brian babin,,,,149,,babin
+590,,hon.,hon. barbara comstock,2273,,barbara,150,,comstock
+591,,barbara,barbara comstock,,,,151,,comstock
+592,,dan,dan newhouse,,,,152,,newhouse
+593,,eddie,eddie bernice johnson,,,bernice,153,,johnson
+594,,zoe,zoe lofgren,,,,154,,lofgren
+595,,frank,frank d. lucas,,,d.,155,,lucas
+596,,dana,dana rohrabacher,979,,,156,,rohrabacher
+597,,president,president and ceo dean garfield,,dr.,and ceo,,157,dean garfield
+598,,hon.,hon. lamar s. smith,1075,,lamar s.,157,,smith
+599,,lamar,lamar s. smith,,,s.,158,,smith
+600,,randy,randy neugebauer,,,,159,,neugebauer
+601,,daniel,daniel lipinski,,,,160,,lipinski
+602,,michael,michael t. mccaul,,,t.,161,,mccaul
+603,,ed,ed perlmutter,,,,162,,perlmutter
+604,,bill,bill foster,,,,163,,foster
+605,,donna,donna f. edwards,,,f.,164,,edwards
+606,,alan,alan grayson,,,,165,,grayson
+607,,bill,bill posey,,,,166,,posey
+608,,paul,paul tonko,1942,,,167,,tonko
+609,,mo,mo brooks,,,,168,,brooks
+610,,randy,randy hultgren,,,,169,,hultgren
+611,,suzanne,suzanne bonamici,2092,,,170,,bonamici
+612,,thomas,thomas massie,,,,171,,massie
+613,,ami,ami bera,,,,172,,bera
+614,,eric,eric swalwell,,,,173,,swalwell
+615,,mark,mark takano,,,,174,,takano
+616,,elizabeth,elizabeth h. esty,,,h.,175,,esty
+617,,jim,jim bridenstine,,,,176,,bridenstine
+618,,randy,randy k. weber,2161,,k.,177,,weber
+619,,marc,marc a. veasey,2166,,a.,178,,veasey
+620,,katherine,katherine m. clark,,,m.,179,,clark
+621,,gary,gary palmer,,,,180,,palmer
+622,,bruce,bruce westerman,,,,181,,westerman
+623,,steve,steve knight,,,,182,,knight
+624,,stephen,stephen knight,2228,,,183,,knight
+625,,barry,barry loudermilk,,,,184,,loudermilk
+626,,ralph,ralph lee abraham,,,lee,185,,abraham
+627,,john,john r. moolenaar,2248,,r.,186,,moolenaar
+628,,hon.,hon. brian babin,2270,,brian,187,,babin
+629,,brian,brian babin,,,,188,,babin
+630,,hon.,hon. barbara comstock,2273,,barbara,189,,comstock
+631,,barbara,barbara comstock,,,,190,,comstock
+632,,drain,drain lahood,2295,,,191,,lahood
+633,,warren,warren davidson,2296,,,192,,davidson
+634,,eddie,eddie bernice johnson,,,bernice,193,,johnson
+635,,zoe,zoe lofgren,,,,194,,lofgren
+636,,frank,frank d. lucas,,,d.,195,,lucas
+637,,dana,dana rohrabacher,979,,,196,,rohrabacher
+638,,senior,senior astrophysicist christine jones,,dr.,astrophysicist,,197,christine jones
+639,,hon.,hon. lamar s. smith,1075,,lamar s.,197,,smith
+640,,randy,randy neugebauer,,,,198,,neugebauer
+641,,daniel,daniel lipinski,,,,199,,lipinski
+642,,michael,michael t. mccaul,,,t.,200,,mccaul
+643,,ed,ed perlmutter,,,,201,,perlmutter
+644,,bill,bill foster,,,,202,,foster
+645,,donna,donna f. edwards,,,f.,203,,edwards
+646,,alan,alan grayson,,,,204,,grayson
+647,,bill,bill posey,,,,205,,posey
+648,,paul,paul tonko,1942,,,206,,tonko
+649,,mo,mo brooks,,,,207,,brooks
+650,,randy,randy hultgren,,,,208,,hultgren
+651,,bill,bill johnson,2046,,,209,,johnson
+652,,suzanne,suzanne bonamici,2092,,,210,,bonamici
+653,,thomas,thomas massie,,,,211,,massie
+654,,ami,ami bera,,,,212,,bera
+655,,eric,eric swalwell,,,,213,,swalwell
+656,,mark,mark takano,,,,214,,takano
+657,,elizabeth,elizabeth h. esty,,,h.,215,,esty
+658,,hon.,hon. jim bridenstine,2155,,jim,216,,bridenstine
+659,,jim,jim bridenstine,,,,217,,bridenstine
+660,,randy,randy k. weber,2161,,k.,218,,weber
+661,,randy,randy weber,,,,219,,weber
+662,,marc,marc a. veasey,2166,,a.,220,,veasey
+663,,katherine,katherine m. clark,,,m.,221,,clark
+664,,gary,gary palmer,,,,222,,palmer
+665,,bruce,bruce westerman,,,,223,,westerman
+666,,steve,steve knight,,,,224,,knight
+667,,barry,barry loudermilk,,,,225,,loudermilk
+668,,ralph,ralph lee abraham,,,lee,226,,abraham
+669,,john,john moolenaar,,,,227,,moolenaar
+670,,john,john r. moolenaar,2248,,r.,228,,moolenaar
+671,,brian,brian babin,,,,229,,babin
+672,,barbara,barbara comstock,,,,230,,comstock
+673,,dan,dan newhouse,,,,231,,newhouse
+674,,eddie,eddie bernice johnson,,,bernice,232,,johnson
+675,,zoe,zoe lofgren,,,,233,,lofgren
+676,,frank,frank d. lucas,,,d.,234,,lucas
+677,,dana,dana rohrabacher,979,,,235,,rohrabacher
+678,,hon.,hon. lamar s. smith,1075,,lamar s.,1,,smith
+679,,hon.,hon. lamar s. smith,1075,,lamar s.,1,,smith
+680,,hon.,hon. lamar s. smith,1075,,lamar s.,1,,smith
+681,,hon.,hon. lamar s. smith,1075,,lamar s.,1,,smith
+682,,hon.,hon. lamar s. smith,1075,,lamar s.,3,,smith
+683,,hon.,hon. lamar s. smith,1075,,lamar s.,5,,smith
+684,,hon.,hon. lamar s. smith,1075,,lamar s.,7,,smith
+685,,hon.,hon. lamar s. smith,1075,,lamar s.,9,,smith
+686,,hon.,hon. lamar s. smith,1075,,lamar s.,11,,smith
+687,,hon.,hon. lamar s. smith,1075,,lamar s.,13,,smith
+688,,hon.,hon. lamar s. smith,1075,,lamar s.,15,,smith
+689,,hon.,hon. lamar s. smith,1075,,lamar s.,17,,smith
+690,,hon.,hon. lamar s. smith,1075,,lamar s.,19,,smith
+691,,hon.,hon. lamar s. smith,1075,,lamar s.,21,,smith
+692,,hon.,hon. lamar s. smith,1075,,lamar s.,23,,smith
+693,,hon.,hon. lamar s. smith,1075,,lamar s.,25,,smith
+694,,hon.,hon. lamar s. smith,1075,,lamar s.,27,,smith
+695,,hon.,hon. lamar s. smith,1075,,lamar s.,29,,smith
+696,,hon.,hon. lamar s. smith,1075,,lamar s.,31,,smith
+697,,hon.,hon. lamar s. smith,1075,,lamar s.,33,,smith
+698,,hon.,hon. lamar s. smith,1075,,lamar s.,35,,smith
+699,,hon.,hon. lamar s. smith,1075,,lamar s.,37,,smith
+700,,hon.,hon. lamar s. smith,1075,,lamar s.,39,,smith
+701,,hon.,hon. lamar s. smith,1075,,lamar s.,41,,smith
+702,,hon.,hon. lamar s. smith,1075,,lamar s.,43,,smith
+703,,hon.,hon. lamar s. smith,1075,,lamar s.,45,,smith
+704,,hon.,hon. lamar s. smith,1075,,lamar s.,47,,smith
+705,,hon.,hon. lamar s. smith,1075,,lamar s.,49,,smith
+706,,hon.,hon. lamar s. smith,1075,,lamar s.,51,,smith
+707,,hon.,hon. lamar s. smith,1075,,lamar s.,53,,smith
+708,,hon.,hon. lamar s. smith,1075,,lamar s.,55,,smith
+709,,hon.,hon. lamar s. smith,1075,,lamar s.,57,,smith
+710,,hon.,hon. lamar s. smith,1075,,lamar s.,59,,smith
+711,,hon.,hon. lamar s. smith,1075,,lamar s.,61,,smith
+712,,hon.,hon. lamar s. smith,1075,,lamar s.,63,,smith
+713,,hon.,hon. lamar s. smith,1075,,lamar s.,65,,smith
+714,,hon.,hon. lamar s. smith,1075,,lamar s.,67,,smith
+715,,hon.,hon. lamar s. smith,1075,,lamar s.,69,,smith
+716,,hon.,hon. lamar s. smith,1075,,lamar s.,71,,smith
+717,,hon.,hon. lamar s. smith,1075,,lamar s.,73,,smith
+718,,hon.,hon. lamar s. smith,1075,,lamar s.,75,,smith
+719,,hon.,hon. lamar s. smith,1075,,lamar s.,77,,smith
+720,,hon.,hon. lamar s. smith,1075,,lamar s.,79,,smith
+721,,hon.,hon. lamar s. smith,1075,,lamar s.,81,,smith
+722,,hon.,hon. lamar s. smith,1075,,lamar s.,83,,smith
+723,,hon.,hon. lamar s. smith,1075,,lamar s.,85,,smith
+724,,hon.,hon. lamar s. smith,1075,,lamar s.,87,,smith
+725,,hon.,hon. lamar s. smith,1075,,lamar s.,89,,smith
+726,,hon.,hon. lamar s. smith,1075,,lamar s.,91,,smith
+727,,hon.,hon. lamar s. smith,1075,,lamar s.,93,,smith
+728,,hon.,hon. lamar s. smith,1075,,lamar s.,95,,smith
+729,,hon.,hon. lamar s. smith,1075,,lamar s.,97,,smith
+730,,hon.,hon. lamar s. smith,1075,,lamar s.,99,,smith
+731,,hon.,hon. lamar s. smith,1075,,lamar s.,101,,smith
+732,,nydia,nydia velazquez,1184,,,103,,velazquez
+733,,nydia,nydia velazquez,1184,,,105,,velazquez
+734,,nydia,nydia velazquez,1184,,,107,,velazquez
+735,,nydia,nydia velazquez,1184,,,109,,velazquez
+736,,nydia,nydia velazquez,1184,,,111,,velazquez
+737,,nydia,nydia velazquez,1184,,,113,,velazquez
+738,,nydia,nydia velazquez,1184,,,115,,velazquez
+739,,nydia,nydia velazquez,1184,,,118,,velazquez
+740,,nydia,nydia velazquez,1184,,,120,,velazquez
+741,,nydia,nydia velazquez,1184,,,122,,velazquez
+742,,nydia,nydia velazquez,1184,,,124,,velazquez
+743,,nydia,nydia velazquez,1184,,,126,,velazquez
+744,,nydia,nydia velazquez,1184,,,128,,velazquez
+745,,nydia,nydia velazquez,1184,,,130,,velazquez
+746,,nydia,nydia velazquez,1184,,,132,,velazquez
+747,,nydia,nydia velazquez,1184,,,134,,velazquez
+748,,nydia,nydia velazquez,1184,,,137,,velazquez
+749,,nydia,nydia velazquez,1184,,,139,,velazquez
+750,,nydia,nydia velazquez,1184,,,141,,velazquez
+751,,nydia,nydia velazquez,1184,,,143,,velazquez
+752,,jerry,jerry moran,1507,,,145,,moran
+753,,tom,tom udall,1567,,,146,,udall
+754,,lisa,lisa murkowski,1694,,,147,,murkowski
+755,,maria,maria cantwell,172,,,148,,cantwell
+756,,jon,jon tester,1829,,,149,,tester
+757,,john,john barrasso,1881,,,150,,barrasso
+758,,al,al franken,1969,,,151,,franken
+759,,james,james lankford,2050,,,152,,lankford
+760,,john,john hoeven,2079,,,153,,hoeven
+761,,steve,steve daines,2138,,,154,,daines
+762,,brian,brian schatz,2173,,,155,,schatz
+763,,heidi,heidi heitkamp,2174,,,156,,heitkamp
+764,,mike,mike crapo,250,,,157,,crapo
+765,,john,john mccain,754,,,158,,mccain
+766,,hon.,hon. lamar s. smith,1075,,lamar s.,1,,smith
+767,,hon.,hon. lamar s. smith,1075,,lamar s.,3,,smith
+768,,hon.,hon. lamar s. smith,1075,,lamar s.,5,,smith
+769,,hon.,hon. lamar s. smith,1075,,lamar s.,7,,smith
+770,,hon.,hon. lamar s. smith,1075,,lamar s.,9,,smith
+771,,hon.,hon. lamar s. smith,1075,,lamar s.,11,,smith
+772,,hon.,hon. lamar s. smith,1075,,lamar s.,13,,smith
+773,,hon.,hon. lamar s. smith,1075,,lamar s.,15,,smith
+774,,hon.,hon. lamar s. smith,1075,,lamar s.,17,,smith
+775,,hon.,hon. lamar s. smith,1075,,lamar s.,19,,smith
+776,,hon.,hon. lamar s. smith,1075,,lamar s.,21,,smith
+777,,hon.,hon. lamar s. smith,1075,,lamar s.,23,,smith
+778,,hon.,hon. lamar s. smith,1075,,lamar s.,25,,smith
+779,,hon.,hon. lamar s. smith,1075,,lamar s.,27,,smith
+780,,hon.,hon. lamar s. smith,1075,,lamar s.,29,,smith
+781,,hon.,hon. lamar s. smith,1075,,lamar s.,31,,smith
+782,,hon.,hon. lamar s. smith,1075,,lamar s.,33,,smith
+783,,hon.,hon. lamar s. smith,1075,,lamar s.,35,,smith
+784,,hon.,hon. lamar s. smith,1075,,lamar s.,37,,smith
+785,,hon.,hon. lamar s. smith,1075,,lamar s.,39,,smith
+786,,hon.,hon. lamar s. smith,1075,,lamar s.,41,,smith
+787,,hon.,hon. lamar s. smith,1075,,lamar s.,43,,smith
+788,,hon.,hon. lamar s. smith,1075,,lamar s.,45,,smith
+789,,hon.,hon. lamar s. smith,1075,,lamar s.,47,,smith
+790,,hon.,hon. lamar s. smith,1075,,lamar s.,49,,smith
+791,,hon.,hon. lamar s. smith,1075,,lamar s.,51,,smith
+792,,hon.,hon. lamar s. smith,1075,,lamar s.,53,,smith
+793,,hon.,hon. lamar s. smith,1075,,lamar s.,55,,smith
+794,,hon.,hon. lamar s. smith,1075,,lamar s.,57,,smith
+795,,hon.,hon. lamar s. smith,1075,,lamar s.,59,,smith
+796,,hon.,hon. lamar s. smith,1075,,lamar s.,61,,smith
+797,,hon.,hon. lamar s. smith,1075,,lamar s.,63,,smith
+798,,hon.,hon. lamar s. smith,1075,,lamar s.,65,,smith
+799,,hon.,hon. lamar s. smith,1075,,lamar s.,67,,smith
+800,,hon.,hon. lamar s. smith,1075,,lamar s.,69,,smith
+801,,hon.,hon. lamar s. smith,1075,,lamar s.,71,,smith
+802,,hon.,hon. lamar s. smith,1075,,lamar s.,73,,smith
+803,,hon.,hon. lamar s. smith,1075,,lamar s.,75,,smith
+804,,hon.,hon. lamar s. smith,1075,,lamar s.,77,,smith
+805,,hon.,hon. lamar s. smith,1075,,lamar s.,79,,smith
+806,,hon.,hon. lamar s. smith,1075,,lamar s.,81,,smith
+807,,hon.,hon. lamar s. smith,1075,,lamar s.,83,,smith
+808,,hon.,hon. lamar s. smith,1075,,lamar s.,85,,smith
+809,,hon.,hon. lamar s. smith,1075,,lamar s.,87,,smith
+810,,hon.,hon. lamar s. smith,1075,,lamar s.,89,,smith
+811,,hon.,hon. lamar s. smith,1075,,lamar s.,91,,smith
+812,,hon.,hon. lamar s. smith,1075,,lamar s.,93,,smith
+813,,hon.,hon. lamar s. smith,1075,,lamar s.,95,,smith
+814,,hon.,hon. lamar s. smith,1075,,lamar s.,97,,smith
+815,,hon.,hon. lamar s. smith,1075,,lamar s.,99,,smith
+816,,hon.,hon. lamar s. smith,1075,,lamar s.,101,,smith
+817,,nydia,nydia velazquez,1184,,,103,,velazquez
+818,,nydia,nydia velazquez,1184,,,105,,velazquez
+819,,nydia,nydia velazquez,1184,,,107,,velazquez
+820,,nydia,nydia velazquez,1184,,,109,,velazquez
+821,,nydia,nydia velazquez,1184,,,111,,velazquez
+822,,nydia,nydia velazquez,1184,,,113,,velazquez
+823,,nydia,nydia velazquez,1184,,,115,,velazquez
+824,,nydia,nydia velazquez,1184,,,118,,velazquez
+825,,nydia,nydia velazquez,1184,,,120,,velazquez
+826,,nydia,nydia velazquez,1184,,,122,,velazquez
+827,,nydia,nydia velazquez,1184,,,124,,velazquez
+828,,nydia,nydia velazquez,1184,,,126,,velazquez
+829,,nydia,nydia velazquez,1184,,,128,,velazquez
+830,,nydia,nydia velazquez,1184,,,130,,velazquez
+831,,nydia,nydia velazquez,1184,,,132,,velazquez
+832,,nydia,nydia velazquez,1184,,,134,,velazquez
+833,,nydia,nydia velazquez,1184,,,137,,velazquez
+834,,nydia,nydia velazquez,1184,,,139,,velazquez
+835,,nydia,nydia velazquez,1184,,,141,,velazquez
+836,,nydia,nydia velazquez,1184,,,143,,velazquez
+837,,jerry,jerry moran,1507,,,145,,moran
+838,,tom,tom udall,1567,,,146,,udall
+839,,lisa,lisa murkowski,1694,,,147,,murkowski
+840,,maria,maria cantwell,172,,,148,,cantwell
+841,,jon,jon tester,1829,,,149,,tester
+842,,john,john barrasso,1881,,,150,,barrasso
+843,,al,al franken,1969,,,151,,franken
+844,,james,james lankford,2050,,,152,,lankford
+845,,john,john hoeven,2079,,,153,,hoeven
+846,,steve,steve daines,2138,,,154,,daines
+847,,brian,brian schatz,2173,,,155,,schatz
+848,,heidi,heidi heitkamp,2174,,,156,,heitkamp
+849,,mike,mike crapo,250,,,157,,crapo
+850,,john,john mccain,754,,,158,,mccain
+851,,hon.,hon. lamar s. smith,1075,,lamar s.,1,,smith
+852,,hon.,hon. lamar s. smith,1075,,lamar s.,3,,smith
+853,,hon.,hon. lamar s. smith,1075,,lamar s.,5,,smith
+854,,hon.,hon. lamar s. smith,1075,,lamar s.,7,,smith
+855,,hon.,hon. lamar s. smith,1075,,lamar s.,9,,smith
+856,,hon.,hon. lamar s. smith,1075,,lamar s.,11,,smith
+857,,hon.,hon. lamar s. smith,1075,,lamar s.,13,,smith
+858,,hon.,hon. lamar s. smith,1075,,lamar s.,15,,smith
+859,,hon.,hon. lamar s. smith,1075,,lamar s.,17,,smith
+860,,hon.,hon. lamar s. smith,1075,,lamar s.,19,,smith
+861,,hon.,hon. lamar s. smith,1075,,lamar s.,21,,smith
+862,,hon.,hon. lamar s. smith,1075,,lamar s.,23,,smith
+863,,hon.,hon. lamar s. smith,1075,,lamar s.,25,,smith
+864,,hon.,hon. lamar s. smith,1075,,lamar s.,27,,smith
+865,,hon.,hon. lamar s. smith,1075,,lamar s.,29,,smith
+866,,hon.,hon. lamar s. smith,1075,,lamar s.,31,,smith
+867,,hon.,hon. lamar s. smith,1075,,lamar s.,33,,smith
+868,,hon.,hon. lamar s. smith,1075,,lamar s.,35,,smith
+869,,hon.,hon. lamar s. smith,1075,,lamar s.,37,,smith
+870,,hon.,hon. lamar s. smith,1075,,lamar s.,39,,smith
+871,,hon.,hon. lamar s. smith,1075,,lamar s.,41,,smith
+872,,hon.,hon. lamar s. smith,1075,,lamar s.,43,,smith
+873,,hon.,hon. lamar s. smith,1075,,lamar s.,45,,smith
+874,,hon.,hon. lamar s. smith,1075,,lamar s.,47,,smith
+875,,hon.,hon. lamar s. smith,1075,,lamar s.,49,,smith
+876,,hon.,hon. lamar s. smith,1075,,lamar s.,51,,smith
+877,,hon.,hon. lamar s. smith,1075,,lamar s.,53,,smith
+878,,hon.,hon. lamar s. smith,1075,,lamar s.,55,,smith
+879,,hon.,hon. lamar s. smith,1075,,lamar s.,57,,smith
+880,,hon.,hon. lamar s. smith,1075,,lamar s.,59,,smith
+881,,hon.,hon. lamar s. smith,1075,,lamar s.,61,,smith
+882,,hon.,hon. lamar s. smith,1075,,lamar s.,63,,smith
+883,,hon.,hon. lamar s. smith,1075,,lamar s.,65,,smith
+884,,hon.,hon. lamar s. smith,1075,,lamar s.,67,,smith
+885,,hon.,hon. lamar s. smith,1075,,lamar s.,69,,smith
+886,,hon.,hon. lamar s. smith,1075,,lamar s.,71,,smith
+887,,hon.,hon. lamar s. smith,1075,,lamar s.,73,,smith
+888,,hon.,hon. lamar s. smith,1075,,lamar s.,75,,smith
+889,,hon.,hon. lamar s. smith,1075,,lamar s.,77,,smith
+890,,hon.,hon. lamar s. smith,1075,,lamar s.,79,,smith
+891,,hon.,hon. lamar s. smith,1075,,lamar s.,81,,smith
+892,,hon.,hon. lamar s. smith,1075,,lamar s.,83,,smith
+893,,hon.,hon. lamar s. smith,1075,,lamar s.,85,,smith
+894,,hon.,hon. lamar s. smith,1075,,lamar s.,87,,smith
+895,,hon.,hon. lamar s. smith,1075,,lamar s.,89,,smith
+896,,hon.,hon. lamar s. smith,1075,,lamar s.,91,,smith
+897,,hon.,hon. lamar s. smith,1075,,lamar s.,93,,smith
+898,,hon.,hon. lamar s. smith,1075,,lamar s.,95,,smith
+899,,hon.,hon. lamar s. smith,1075,,lamar s.,97,,smith
+900,,hon.,hon. lamar s. smith,1075,,lamar s.,99,,smith
+901,,hon.,hon. lamar s. smith,1075,,lamar s.,101,,smith
+902,,nydia,nydia velazquez,1184,,,103,,velazquez
+903,,nydia,nydia velazquez,1184,,,105,,velazquez
+904,,nydia,nydia velazquez,1184,,,107,,velazquez
+905,,nydia,nydia velazquez,1184,,,109,,velazquez
+906,,nydia,nydia velazquez,1184,,,111,,velazquez
+907,,nydia,nydia velazquez,1184,,,113,,velazquez
+908,,nydia,nydia velazquez,1184,,,115,,velazquez
+909,,nydia,nydia velazquez,1184,,,118,,velazquez
+910,,nydia,nydia velazquez,1184,,,120,,velazquez
+911,,nydia,nydia velazquez,1184,,,122,,velazquez
+912,,nydia,nydia velazquez,1184,,,124,,velazquez
+913,,nydia,nydia velazquez,1184,,,126,,velazquez
+914,,nydia,nydia velazquez,1184,,,128,,velazquez
+915,,nydia,nydia velazquez,1184,,,130,,velazquez
+916,,nydia,nydia velazquez,1184,,,132,,velazquez
+917,,nydia,nydia velazquez,1184,,,134,,velazquez
+918,,nydia,nydia velazquez,1184,,,137,,velazquez
+919,,nydia,nydia velazquez,1184,,,139,,velazquez
+920,,nydia,nydia velazquez,1184,,,141,,velazquez
+921,,nydia,nydia velazquez,1184,,,143,,velazquez
+922,,jerry,jerry moran,1507,,,145,,moran
+923,,tom,tom udall,1567,,,146,,udall
+924,,lisa,lisa murkowski,1694,,,147,,murkowski
+925,,maria,maria cantwell,172,,,148,,cantwell
+926,,jon,jon tester,1829,,,149,,tester
+927,,john,john barrasso,1881,,,150,,barrasso
+928,,al,al franken,1969,,,151,,franken
+929,,james,james lankford,2050,,,152,,lankford
+930,,john,john hoeven,2079,,,153,,hoeven
+931,,steve,steve daines,2138,,,154,,daines
+932,,brian,brian schatz,2173,,,155,,schatz
+933,,heidi,heidi heitkamp,2174,,,156,,heitkamp
+934,,mike,mike crapo,250,,,157,,crapo
+935,,john,john mccain,754,,,158,,mccain

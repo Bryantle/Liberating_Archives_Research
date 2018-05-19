@@ -1,0 +1,81 @@
+<html>
+<head>
+	<!-- load the bootstrap css here -->
+	<link href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+</head>
+<body>
+	<div class="container">
+		<div class="row">
+			<div class="col-md-12">
+				<h1>Capitol Query</h1>
+				<small>Search the speech database by speaker</small>
+			</div>
+		</div>
+		<br clear="all">
+		<div class="row">
+			<div class="col-md-3">
+				<input class="form-control" type="text" placeholder="Enter speaker surname" value="{{speaker}}" id="speaker"/>
+				<small>Try rubio, shinkman, murray, brown</small>
+			</div>
+			<div class="col-md-3">
+				<select class="form-control" id="year">
+					<option value="">All years</option>
+					{% for year in years %}
+					<option value="{{year}}" {% if selected_year == year %}selected{%endif%}>{{year}}</option>
+					{% endfor %}
+				</select>
+				<small>Try 2015,2016</small>
+			</div>
+			<div class="col-md-3">
+				<button style="width:100%;" class="btn btn-primary" id="filter-btn"><b>Filter</b></button>
+			</div>
+			<div class="col-md-3">
+				<button style="width:100%;" class="btn btn-default" id="download-btn"><b>Download</b></button>
+			</div>
+		</div>
+		
+		<br>
+		<div class="row">
+			<div class="col-md-12 text-right">
+				<b>{{no_of_records}} speeches</b>
+			</div>
+		</div>
+		<div class="row">
+			<div class="col-md-12 text-center">
+				<table class="table table-striped thead-dark">
+					<thead class="text-center">
+						<td>Hearing Title</td>
+						<td>Date</td>
+						<td>Speaker</td>
+						<td>Speech</td>
+					</thead>
+					<tbody>
+						{% if (records is defined) and records %}
+							{% for record in records %}
+								<tr>
+									<td>{{record.title}}</td>
+									<td>{{record.date}}</td>
+									<td>{{record.name}}</td>
+									<!-- This line shows just the first 100 characters and cuts it after that -->
+									<td>{{record.text[0:100] + " ..."}}</td>
+								</tr>
+							{% endfor %}
+						{% else %}
+						<tr>
+							<td colspan="4">No results</td>
+						</tr>
+						{% endif %}
+					</tbody>
+				</table>
+				<hr>
+				<p>Sneek peak of what you will download</p>
+			</div>
+		</div>
+	</div>
+	<!-- Load the javascript down here -->
+	<script src="https://code.jquery.com/jquery-2.2.4.min.js" integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44=" crossorigin="anonymous"></script>
+	<script src="static/js/main.js"></script>
+</body>
+
+
+</html>

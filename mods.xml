@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?><mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.3" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" ID="P0b002ee199c7f9c7">
+<name type="corporate" xmlns:exslt="http://exslt.org/common">
+<namePart>United States Government Publishing Office</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">publisher</roleTerm>
+<roleTerm authority="marcrelator" type="code">pbl</roleTerm>
+</role>
+<role>
+<roleTerm authority="marcrelator" type="text">distributor</roleTerm>
+<roleTerm authority="marcrelator" type="code">dst</roleTerm>
+</role>
+</name>
+<name type="corporate" xmlns:exslt="http://exslt.org/common">
+<namePart>United States</namePart>
+<namePart>National Archives and Records Administration</namePart>
+<namePart>Office of the Federal Register</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">author</roleTerm>
+<roleTerm authority="marcrelator" type="code">aut</roleTerm>
+</role>
+<description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language xmlns:exslt="http://exslt.org/common">
+<languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+</language>
+<extension xmlns:exslt="http://exslt.org/common">
+<collectionCode>DCPD</collectionCode>
+<category>Budget and Presidential Materials</category>
+<branch>executive</branch>
+<dateIngested>2018-03-23</dateIngested>
+</extension>
+<name type="corporate">
+<namePart>United States</namePart>
+<namePart>Executive Office of the President</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">originator</roleTerm>
+<roleTerm authority="marcrelator" type="code">org</roleTerm>
+</role>
+<description>United States Government Agency</description>
+</name>
+<name type="personal">
+<namePart>Donald J. Trump</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">originator</roleTerm>
+<roleTerm authority="marcrelator" type="code">org</roleTerm>
+</role>
+<description>President of the United States</description>
+</name>
+<titleInfo>
+<title>Executive Order 13825-2018 Amendments to the Manual for Courts-Martial, United States</title>
+</titleInfo>
+<location xmlns:exslt="http://exslt.org/common">
+<url displayLabel="Content Detail" access="object in context">https://www.gpo.gov/fdsys/pkg/DCPD-201800129/content-detail.html</url>
+<url displayLabel="HTML rendition" access="raw object">https://www.gpo.gov/fdsys/pkg/DCPD-201800129/html/DCPD-201800129.htm</url>
+<url displayLabel="PDF rendition" access="raw object">https://www.gpo.gov/fdsys/pkg/DCPD-201800129/pdf/DCPD-201800129.pdf</url>
+</location>
+<identifier type="presidential executive order number">Executive Order 13825</identifier>
+<identifier type="preferred citation">DCPD-201800129</identifier>
+<note>This Executive order and its attached annex were published in the &lt;I&gt;Federal Register&lt;/I&gt; on March 8.</note>
+<subject>
+<topic>Armed Forces, U.S:Courts-Martial, United States, Manual for, amendments</topic>
+</subject>
+<extension>
+<searchTitle>Executive Order 13825-2018 Amendments to the Manual for Courts-Martial, United States;DCPD-201800129</searchTitle>
+</extension>
+<originInfo xmlns:exslt="http://exslt.org/common">
+<publisher>Office of the Federal Register, National Archives and Records Administration</publisher>
+<dateIssued encoding="w3cdtf">2018-03-01</dateIssued>
+<issuance>continuing</issuance>
+<frequency authority="marcfrequency">daily</frequency>
+</originInfo>
+<physicalDescription xmlns:exslt="http://exslt.org/common">
+<note type="source content type">deposited</note>
+<digitalOrigin>born digital</digitalOrigin>
+<extent>3 p.</extent>
+</physicalDescription>
+<classification authority="sudocs"/>
+<classification authority="lcs"/>
+<identifier type="uri" xmlns:exslt="http://exslt.org/common">https://www.gpo.gov/fdsys/pkg/DCPD-201800129</identifier>
+<identifier type="local" xmlns:exslt="http://exslt.org/common">P0b002ee199c7f9c7</identifier>
+<identifier type="ILS system id" xmlns:exslt="http://exslt.org/common">000599742</identifier>
+<identifier type="Child ILS system id" xmlns:exslt="http://exslt.org/common">000599742</identifier>
+<recordInfo xmlns:exslt="http://exslt.org/common">
+<recordContentSource authority="marcorg">DGPO</recordContentSource>
+<recordCreationDate encoding="w3cdtf">2018-03-23</recordCreationDate>
+<recordChangeDate encoding="w3cdtf">2018-03-23</recordChangeDate>
+<recordIdentifier source="DGPO">DCPD-201800129</recordIdentifier>
+<recordOrigin>machine generated</recordOrigin>
+<languageOfCataloging>
+<languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<accessCondition type="GPO scope determination" xmlns:exslt="http://exslt.org/common">fdlp</accessCondition>
+<extension xmlns:exslt="http://exslt.org/common">
+<docClass>PRESDOC</docClass>
+<dcpdCategory>
+                    <level1>Executive Orders</level1>
+                    <level2>Courts-Martial, United States, Manual for, 2018 amendments</level2>
+                </dcpdCategory>
+<subject>
+                    <level1>Armed Forces, U.S</level1>
+                    <level2>Courts-Martial, United States, Manual for, amendments</level2>
+                </subject>
+<notes>This Executive order and its attached annex were published in the &lt;I&gt;Federal Register&lt;/I&gt; on March 8.</notes>
+<accessId>DCPD-201800129</accessId>
+<president id="DJT" party="R">
+                    <name type="authority-lnf">Trump, Donald J.</name>
+                    <name type="authority-fnf">Donald J. Trump</name>
+                    <name type="authority-other">Donald Trump</name>
+                    <name type="authority-other">Donald John Trump</name>
+                </president>
+<presidentialDoc number="13825" type="EXECORD"/>
+<law congress="114" isPrivate="false" number="328"/>
+<USCode title="10">
+                    <section number="801-946"/>
+                    <chapter number="47"/>
+                </USCode>
+<statuteAtLarge volume="130">
+                    <pages pages="2000"/>
+                </statuteAtLarge>
+</extension>
+<relatedItem type="isReferencedBy" xmlns:exslt="http://exslt.org/common">
+<titleInfo>
+<title>United States Code</title>
+<partNumber>Title 10 Section 801-946</partNumber>
+<partNumber>Title 10 Chapter 47</partNumber>
+</titleInfo>
+<identifier type="USC citation">10 U.S.C. 801-946</identifier>
+<identifier type="USC citation">10 U.S.C. Chapter 47</identifier>
+</relatedItem>
+<relatedItem type="isReferencedBy" xmlns:exslt="http://exslt.org/common">
+<titleInfo>
+<title>United States Statutes at Large</title>
+<partNumber>Volume 130 Page 2000</partNumber>
+</titleInfo>
+<identifier type="Statute citation">130 Stat. 2000</identifier>
+</relatedItem>
+<identifier type="presidential executive order number" xmlns:exslt="http://exslt.org/common">Executive Order 13825</identifier>
+<relatedItem xmlns:exslt="http://exslt.org/common">
+<titleInfo>
+<title>United States Public Law 114-328</title>
+</titleInfo>
+<identifier type="public law citation">Public Law 114-328</identifier>
+</relatedItem>
+</mods>
